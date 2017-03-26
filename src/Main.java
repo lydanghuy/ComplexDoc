@@ -15,9 +15,9 @@ public class Main {
 		doc4.setDocID("9999");
 		doc3.storeDocument(doc4);
 		doc3.storeDocument(doc5);
-        doc0.storeDocument(doc3);
-        doc0.storeDocument(doc2);
-        doc0.show();
+        	doc0.storeDocument(doc3);
+        	doc0.storeDocument(doc2);
+        	doc0.show();
         //doc0.sizeOfObject(doc2);
         //doc0.sizeOfObject(doc5);
 	}
