@@ -1,2 +1,2 @@
 # ComplexDoc
-demo
+VGU SWE Design Summer Semester 2017
